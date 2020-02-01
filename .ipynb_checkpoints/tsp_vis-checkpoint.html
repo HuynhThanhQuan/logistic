@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>IPyWidget export</title>
+</head>
+<body>
+
+
+<!-- Load require.js. Delete this if your page already loads require.js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/@jupyter-widgets/html-manager@^0.18.0/dist/embed-amd.js" crossorigin="anonymous"></script>
+
+<script type="application/vnd.jupyter.widget-state+json">
+{
+  "version_major": 2,
+  "version_minor": 0,
+  "state": {
+    "4f8bc45a32f9424bafd0b0a09cb988fb": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "1.2.0",
+      "state": {
+        "height": "100%",
+        "width": "100%"
+      }
+    },
+    "4ace39cb9db4473eaabf3054b31a10bf": {
+      "model_name": "PlainmapModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "_dom_classes": [],
+        "configuration": {
+          "api_key": "AIzaSyAQWqMTOcyLBRDR2skO4F_5QEWzNDOlUHw"
+        },
+        "data_bounds": [
+          [
+            10.765477129425035,
+            106.66077999999999
+          ],
+          [
+            10.801015970574968,
+            106.71552322394363
+          ]
+        ],
+        "initial_viewport": {
+          "type": "ZOOM_CENTER",
+          "center": [
+            10.78324655,
+            106.69030706250001
+          ],
+          "zoom_level": 12
+        },
+        "layers": [
+          "IPY_MODEL_00a8306086234a2499b44193baaf4eea",
+          "IPY_MODEL_66f5bfacb49649faba398650e3125c9a",
+          "IPY_MODEL_c51d78ef1a6b4896a4be8416a242dcf5",
+          "IPY_MODEL_fd23f467f34a401cbceb9de56c788ab6",
+          "IPY_MODEL_5dd284381f3440cf96b60160ca3c4d17",
+          "IPY_MODEL_02005dd52f8e4cc081f22491d408c515",
+          "IPY_MODEL_3523f206aed945b5a13c442d69835b17",
+          "IPY_MODEL_aaca6b8e0a4d435088e8d7b9c605a935",
+          "IPY_MODEL_62e300b68884454aae5b6d975cc176d5"
+        ],
+        "layout": "IPY_MODEL_4f8bc45a32f9424bafd0b0a09cb988fb"
+      }
+    },
+    "13b2146ae92444e68d662002c77fa998": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "1.2.0",
+      "state": {}
+    },
+    "eabb76a2cd474d1080d70f0140599c7a": {
+      "model_name": "ToolbarModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "_dom_classes": [],
+        "layer_controls": [],
+        "layout": "IPY_MODEL_13b2146ae92444e68d662002c77fa998"
+      }
+    },
+    "923a638af9984d9cbb1b5ef6668a0d24": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "1.2.0",
+      "state": {}
+    },
+    "60ce0e4609e9424794a7456cb0771c41": {
+      "model_name": "ErrorsBoxModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "_dom_classes": [],
+        "errors": [],
+        "layout": "IPY_MODEL_923a638af9984d9cbb1b5ef6668a0d24"
+      }
+    },
+    "f533f08d76844adba275243a071ee841": {
+      "model_name": "LayoutModel",
+      "model_module": "@jupyter-widgets/base",
+      "model_module_version": "1.2.0",
+      "state": {
+        "height": "800px",
+        "width": "1500px"
+      }
+    },
+    "b4e0f30ba5c74f9aafe119c208acdc72": {
+      "model_name": "FigureModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "_dom_classes": [],
+        "_errors_box": "IPY_MODEL_60ce0e4609e9424794a7456cb0771c41",
+        "_map": "IPY_MODEL_4ace39cb9db4473eaabf3054b31a10bf",
+        "_toolbar": "IPY_MODEL_eabb76a2cd474d1080d70f0140599c7a",
+        "layout": "IPY_MODEL_f533f08d76844adba275243a071ee841"
+      }
+    },
+    "1dd94656d1e8439094dd5a6e89c79f8b": {
+      "model_name": "MarkerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "location": [
+          10.7788073,
+          106.6921147
+        ]
+      }
+    },
+    "00a8306086234a2499b44193baaf4eea": {
+      "model_name": "MarkerLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.7787973,
+            106.6921047
+          ],
+          [
+            10.7788173,
+            106.69212470000001
+          ]
+        ],
+        "markers": [
+          "IPY_MODEL_1dd94656d1e8439094dd5a6e89c79f8b"
+        ]
+      }
+    },
+    "c75f5906a9bd4c1db12edfcf71646b1f": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.792602,
+          106.6987296
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "657a69e6b5734ecf9df47102ddb68d53": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.7788073,
+          106.6921147
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "fc6e8bfbaca34e70b709a298acfdb12b": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.7930941,
+          106.6889938
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "75760f04ead74489a27948b473f4dae2": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.779924,
+          106.68679
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "8ab1a5606b6f49fd8550652651f446ed": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.7767819,
+          106.7060957
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "93914f7ce9794d4098f4498a99e11d19": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.7697034,
+          106.6907673
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "0a8a214eaeb24ff29337c434cfbf527c": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.7787447,
+          106.6981854
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "e23f5a2035de4e29a3a14a78491727a2": {
+      "model_name": "SymbolModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "fill_color": "blue",
+        "location": [
+          10.796315,
+          106.66078
+        ],
+        "scale": 3,
+        "stroke_color": "blue"
+      }
+    },
+    "66f5bfacb49649faba398650e3125c9a": {
+      "model_name": "MarkerLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.765477129425035,
+            106.66509090131989
+          ],
+          [
+            10.801015970574968,
+            106.71552322394363
+          ]
+        ],
+        "markers": [
+          "IPY_MODEL_c75f5906a9bd4c1db12edfcf71646b1f",
+          "IPY_MODEL_657a69e6b5734ecf9df47102ddb68d53",
+          "IPY_MODEL_fc6e8bfbaca34e70b709a298acfdb12b",
+          "IPY_MODEL_75760f04ead74489a27948b473f4dae2",
+          "IPY_MODEL_8ab1a5606b6f49fd8550652651f446ed",
+          "IPY_MODEL_93914f7ce9794d4098f4498a99e11d19",
+          "IPY_MODEL_0a8a214eaeb24ff29337c434cfbf527c",
+          "IPY_MODEL_e23f5a2035de4e29a3a14a78491727a2"
+        ]
+      }
+    },
+    "c51d78ef1a6b4896a4be8416a242dcf5": {
+      "model_name": "DirectionsLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.792602,
+            106.6889938
+          ],
+          [
+            10.7930941,
+            106.6987296
+          ]
+        ],
+        "end": [
+          10.7930941,
+          106.6889938
+        ],
+        "start": [
+          10.792602,
+          106.6987296
+        ],
+        "stroke_color": "#0088ff",
+        "waypoints": []
+      }
+    },
+    "fd23f467f34a401cbceb9de56c788ab6": {
+      "model_name": "DirectionsLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.7930941,
+            106.66078
+          ],
+          [
+            10.796315,
+            106.6889938
+          ]
+        ],
+        "end": [
+          10.796315,
+          106.66078
+        ],
+        "start": [
+          10.7930941,
+          106.6889938
+        ],
+        "stroke_color": "#0088ff",
+        "waypoints": []
+      }
+    },
+    "5dd284381f3440cf96b60160ca3c4d17": {
+      "model_name": "DirectionsLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.779924,
+            106.66078
+          ],
+          [
+            10.796315,
+            106.68679
+          ]
+        ],
+        "end": [
+          10.779924,
+          106.68679
+        ],
+        "start": [
+          10.796315,
+          106.66078
+        ],
+        "stroke_color": "#0088ff",
+        "waypoints": []
+      }
+    },
+    "02005dd52f8e4cc081f22491d408c515": {
+      "model_name": "DirectionsLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.7788073,
+            106.68679
+          ],
+          [
+            10.779924,
+            106.6921147
+          ]
+        ],
+        "end": [
+          10.7788073,
+          106.6921147
+        ],
+        "start": [
+          10.779924,
+          106.68679
+        ],
+        "stroke_color": "#0088ff",
+        "waypoints": []
+      }
+    },
+    "3523f206aed945b5a13c442d69835b17": {
+      "model_name": "DirectionsLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.7697034,
+            106.6907673
+          ],
+          [
+            10.7788073,
+            106.6921147
+          ]
+        ],
+        "end": [
+          10.7697034,
+          106.6907673
+        ],
+        "start": [
+          10.7788073,
+          106.6921147
+        ],
+        "stroke_color": "#0088ff",
+        "waypoints": []
+      }
+    },
+    "aaca6b8e0a4d435088e8d7b9c605a935": {
+      "model_name": "DirectionsLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.7697034,
+            106.6907673
+          ],
+          [
+            10.7787447,
+            106.6981854
+          ]
+        ],
+        "end": [
+          10.7787447,
+          106.6981854
+        ],
+        "start": [
+          10.7697034,
+          106.6907673
+        ],
+        "stroke_color": "#0088ff",
+        "waypoints": []
+      }
+    },
+    "62e300b68884454aae5b6d975cc176d5": {
+      "model_name": "DirectionsLayerModel",
+      "model_module": "jupyter-gmaps",
+      "model_module_version": "0.9.0",
+      "state": {
+        "data_bounds": [
+          [
+            10.7767819,
+            106.6981854
+          ],
+          [
+            10.7787447,
+            106.7060957
+          ]
+        ],
+        "end": [
+          10.7767819,
+          106.7060957
+        ],
+        "start": [
+          10.7787447,
+          106.6981854
+        ],
+        "stroke_color": "#0088ff",
+        "waypoints": []
+      }
+    }
+  }
+}
+</script>
+<script type="application/vnd.jupyter.widget-view+json">
+{"version_major": 2, "version_minor": 0, "model_id": "b4e0f30ba5c74f9aafe119c208acdc72"}
+</script>
+
+</body>
+</html>
