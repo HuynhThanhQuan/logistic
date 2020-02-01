@@ -1,0 +1,16 @@
+NAME : a2e5164a-5337-4e35-ac86-3b01bd9e7f47.tsptw.4528.tour
+COMMENT : Length = 4528
+COMMENT : Found by LKH [Keld Helsgaun] Wed Jan 29 18:15:07 2020
+TYPE : TOUR
+DIMENSION : 8
+TOUR_SECTION
+1
+3
+8
+4
+2
+6
+7
+5
+-1
+EOF

@@ -1,0 +1,29 @@
+NAME : n20w60.001.400.tour
+COMMENT : Length = 400
+COMMENT : Found by LKH [Keld Helsgaun] Tue Nov  7 19:35:15 2017
+TYPE : TOUR
+DIMENSION : 21
+TOUR_SECTION
+1
+11
+20
+2
+6
+12
+5
+8
+7
+4
+15
+17
+14
+16
+13
+3
+10
+9
+21
+18
+19
+-1
+EOF

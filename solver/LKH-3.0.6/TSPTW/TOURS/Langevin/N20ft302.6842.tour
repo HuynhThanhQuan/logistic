@@ -1,0 +1,28 @@
+NAME : N20ft302.dat.6842.tour
+COMMENT : Length = 6842
+COMMENT : Found by LKH [Keld Helsgaun] Tue May  2 05:19:41 2017
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+1
+19
+16
+13
+20
+18
+6
+4
+10
+14
+5
+12
+11
+3
+2
+8
+17
+9
+15
+7
+-1
+EOF

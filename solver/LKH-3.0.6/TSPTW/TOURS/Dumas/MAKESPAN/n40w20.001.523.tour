@@ -1,0 +1,49 @@
+NAME : n40w20.001.txt.523.tour
+COMMENT : Length = 523
+COMMENT : Found by LKH [Keld Helsgaun] Tue Nov  7 19:35:15 2017
+TYPE : TOUR
+DIMENSION : 41
+TOUR_SECTION
+1
+8
+14
+17
+38
+7
+16
+13
+40
+3
+36
+26
+5
+24
+33
+4
+39
+9
+2
+19
+34
+15
+6
+37
+11
+32
+23
+22
+10
+20
+27
+30
+12
+28
+35
+29
+25
+21
+18
+41
+31
+-1
+EOF

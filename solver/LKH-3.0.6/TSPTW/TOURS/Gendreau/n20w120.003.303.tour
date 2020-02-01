@@ -1,0 +1,29 @@
+NAME : n20w120.003.303.tour
+COMMENT : Length = 303
+COMMENT : Found by LKH [Keld Helsgaun] Tue May  2 05:19:03 2017
+TYPE : TOUR
+DIMENSION : 21
+TOUR_SECTION
+1
+6
+20
+14
+2
+4
+9
+10
+17
+5
+3
+8
+16
+15
+18
+12
+19
+11
+21
+13
+7
+-1
+EOF

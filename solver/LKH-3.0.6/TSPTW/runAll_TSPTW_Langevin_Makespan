@@ -1,0 +1,72 @@
+run_TSPTW_Makespan Langevin N20ft301 10000 10 6616
+run_TSPTW_Makespan Langevin N20ft302 10000 10 7030
+run_TSPTW_Makespan Langevin N20ft303 10000 10 7464
+run_TSPTW_Makespan Langevin N20ft304 10000 10 8170
+run_TSPTW_Makespan Langevin N20ft305 10000 10 7247
+run_TSPTW_Makespan Langevin N20ft306 10000 10 7295
+run_TSPTW_Makespan Langevin N20ft307 10000 10 6918
+run_TSPTW_Makespan Langevin N20ft308 10000 10 7882
+run_TSPTW_Makespan Langevin N20ft309 10000 10 7527
+run_TSPTW_Makespan Langevin N20ft310 10000 10 6938
+run_TSPTW_Makespan Langevin N20ft401 10000 10 6609
+run_TSPTW_Makespan Langevin N20ft402 10000 10 7010
+run_TSPTW_Makespan Langevin N20ft403 10000 10 7464
+run_TSPTW_Makespan Langevin N20ft404 10000 10 8170
+run_TSPTW_Makespan Langevin N20ft405 10000 10 7247
+run_TSPTW_Makespan Langevin N20ft406 10000 10 7285
+run_TSPTW_Makespan Langevin N20ft407 10000 10 6918
+run_TSPTW_Makespan Langevin N20ft408 10000 10 7861 
+run_TSPTW_Makespan Langevin N20ft409 10000 10 7507
+run_TSPTW_Makespan Langevin N20ft410 10000 10 6938
+
+run_TSPTW_Makespan Langevin N40ft201 10000 10 11093
+run_TSPTW_Makespan Langevin N40ft202 10000 10 10174
+run_TSPTW_Makespan Langevin N40ft203 10000 10 9031
+run_TSPTW_Makespan Langevin N40ft204 10000 10 8974
+run_TSPTW_Makespan Langevin N40ft205 10000 10 9836
+run_TSPTW_Makespan Langevin N40ft206 10000 10 10819
+run_TSPTW_Makespan Langevin N40ft207 10000 10 8849
+run_TSPTW_Makespan Langevin N40ft208 10000 10 10516
+run_TSPTW_Makespan Langevin N40ft209 10000 10 10275
+run_TSPTW_Makespan Langevin N40ft210 10000 10 10353
+run_TSPTW_Makespan Langevin N40ft401 10000 10 11216
+run_TSPTW_Makespan Langevin N40ft402 10000 10 10164
+run_TSPTW_Makespan Langevin N40ft403 10000 10 9031
+run_TSPTW_Makespan Langevin N40ft404 10000 10 8974 # Improved from 9009
+run_TSPTW_Makespan Langevin N40ft405 10000 10 9826 # Improved from 9869
+run_TSPTW_Makespan Langevin N40ft406 10000 10 10819
+run_TSPTW_Makespan Langevin N40ft407 10000 10 8722
+run_TSPTW_Makespan Langevin N40ft408 10000 10 10435
+run_TSPTW_Makespan Langevin N40ft409 10000 10 10255
+run_TSPTW_Makespan Langevin N40ft410 10000 10 10343
+
+run_TSPTW_Makespan Langevin N60ft201 10000 10 13754
+run_TSPTW_Makespan Langevin N60ft202 10000 10 11864
+run_TSPTW_Makespan Langevin N60ft203 10000 10 11942
+run_TSPTW_Makespan Langevin N60ft204 10000 10 12836 # Improved from 12852
+run_TSPTW_Makespan Langevin N60ft205 10000 10 12155
+run_TSPTW_Makespan Langevin N60ft206 10000 10 12388
+run_TSPTW_Makespan Langevin N60ft207 10000 10 13053
+run_TSPTW_Makespan Langevin N60ft208 10000 10 11726
+run_TSPTW_Makespan Langevin N60ft209 10000 10 12458
+run_TSPTW_Makespan Langevin N60ft210 10000 10 12732
+run_TSPTW_Makespan Langevin N60ft301 10000 10 13754
+run_TSPTW_Makespan Langevin N60ft302 10000 10 11844
+run_TSPTW_Makespan Langevin N60ft303 10000 10 11942
+run_TSPTW_Makespan Langevin N60ft304 10000 10 12837
+run_TSPTW_Makespan Langevin N60ft305 10000 10 12145
+run_TSPTW_Makespan Langevin N60ft306 10000 10 12378
+run_TSPTW_Makespan Langevin N60ft307 10000 10 12984
+run_TSPTW_Makespan Langevin N60ft308 10000 10 11794
+run_TSPTW_Makespan Langevin N60ft309 10000 10 12428
+run_TSPTW_Makespan Langevin N60ft310 10000 10 12732
+run_TSPTW_Makespan Langevin N60ft401 10000 10 13754
+run_TSPTW_Makespan Langevin N60ft402 10000 10 11834
+run_TSPTW_Makespan Langevin N60ft403 10000 10 11942
+run_TSPTW_Makespan Langevin N60ft404 10000 10 12836
+run_TSPTW_Makespan Langevin N60ft405 10000 10 12125
+run_TSPTW_Makespan Langevin N60ft406 10000 10 12368
+run_TSPTW_Makespan Langevin N60ft407 10000 10 12964
+run_TSPTW_Makespan Langevin N60ft408 10000 10 11500 # Improved from 11536
+run_TSPTW_Makespan Langevin N60ft409 10000 10 12418 # Improved from 12453
+run_TSPTW_Makespan Langevin N60ft410 10000 10 12732

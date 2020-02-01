@@ -1,0 +1,28 @@
+run_TSPTW_Makespan Pesant rc201.0 10000 10 8537075
+run_TSPTW_Makespan Pesant rc201.1 10000 10 8504819
+run_TSPTW_Makespan Pesant rc201.2 10000 10 8839655
+run_TSPTW_Makespan Pesant rc201.3 10000 10 7224343
+
+run_TSPTW_Makespan Pesant rc202.0 10000 10 8504819
+run_TSPTW_Makespan Pesant rc202.1 10000 10 7022843
+run_TSPTW_Makespan Pesant rc202.2 10000 10 8537075
+run_TSPTW_Makespan Pesant rc202.3 10000 10 8839655
+
+run_TSPTW_Makespan Pesant rc203.1 10000 10 8504819
+
+run_TSPTW_Makespan Pesant rc204.0 10000 10 8392354
+run_TSPTW_Makespan Pesant rc204.1 10000 10 4926047
+run_TSPTW_Makespan Pesant rc204.2 10000 10 8705225
+
+run_TSPTW_Makespan Pesant rc205.0 10000 10 8346158
+run_TSPTW_Makespan Pesant rc205.1 10000 10 8992354
+run_TSPTW_Makespan Pesant rc205.2 10000 10 9087854 
+
+run_TSPTW_Makespan Pesant rc206.1 10000 10 7564451
+run_TSPTW_Makespan Pesant rc206.2 10000 10 7761913
+
+run_TSPTW_Makespan Pesant rc207.1 10000 10 7853659
+
+run_TSPTW_Makespan Pesant rc208.0 10000 10 8360417
+run_TSPTW_Makespan Pesant rc208.1 10000 10 6155075
+run_TSPTW_Makespan Pesant rc208.2 10000 10 5962072

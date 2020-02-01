@@ -1,0 +1,49 @@
+NAME : n40w80.001.497.tour
+COMMENT : Length = 497
+COMMENT : Found by LKH [Keld Helsgaun] Tue May  2 05:46:14 2017
+TYPE : TOUR
+DIMENSION : 41
+TOUR_SECTION
+1
+18
+34
+12
+9
+40
+22
+39
+19
+38
+15
+37
+10
+29
+35
+25
+14
+32
+36
+3
+17
+24
+21
+33
+26
+6
+13
+8
+31
+7
+2
+11
+27
+5
+23
+4
+16
+28
+41
+30
+20
+-1
+EOF

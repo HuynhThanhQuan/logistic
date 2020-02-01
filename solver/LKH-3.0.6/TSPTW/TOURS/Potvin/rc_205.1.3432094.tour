@@ -1,0 +1,22 @@
+NAME : rc_205.1.3432094.tour
+COMMENT : Length = 3432094
+COMMENT : Found by LKH [Keld Helsgaun] Tue May  2 05:21:40 2017
+TYPE : TOUR
+DIMENSION : 14
+TOUR_SECTION
+1
+13
+12
+2
+4
+7
+9
+10
+8
+5
+3
+6
+11
+14
+-1
+EOF

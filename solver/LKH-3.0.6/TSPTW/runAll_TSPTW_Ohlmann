@@ -1,0 +1,29 @@
+run_TSPTW Ohlmann n150w120.001 10000 10 734 # Improved from 735
+run_TSPTW Ohlmann n150w120.002 10000 10 677 # Improved from 683
+run_TSPTW Ohlmann n150w120.003 10000 10 747 # Improved from 748
+run_TSPTW Ohlmann n150w120.004 10000 10 763
+run_TSPTW Ohlmann n150w120.005 10000 10 689 # Improved from 692
+
+run_TSPTW Ohlmann n150w140.001 10000 10 762 # Improved from 767
+run_TSPTW Ohlmann n150w140.002 10000 10 755 # Improved from 757
+run_TSPTW Ohlmann n150w140.003 10000 10 613 # Improved from 620
+run_TSPTW Ohlmann n150w140.004 10000 10 676 # Improved from 677
+run_TSPTW Ohlmann n150w140.005 10000 10 663 # Improved from 665
+
+run_TSPTW Ohlmann n150w160.001 10000 10 706 # Improved from 708
+run_TSPTW Ohlmann n150w160.002 10000 10 711 # Improved from 712
+run_TSPTW Ohlmann n150w160.003 10000 10 608 # Improved from 610
+run_TSPTW Ohlmann n150w160.004 10000 10 672
+run_TSPTW Ohlmann n150w160.005 10000 10 658 
+
+run_TSPTW Ohlmann n200w120.001 10000 10 799 # Improved from 801
+run_TSPTW Ohlmann n200w120.002 10000 10 721 # Improved from 725
+run_TSPTW Ohlmann n200w120.003 10000 10 880 # Improved from 885
+run_TSPTW Ohlmann n200w120.004 10000 10 777 # Improved from 778
+run_TSPTW Ohlmann n200w120.005 10000 10 841 # Improved from 843
+
+run_TSPTW Ohlmann n200w140.001 10000 10 834 # Improved from 837
+run_TSPTW Ohlmann n200w140.002 10000 10 760 # Improved from 768
+run_TSPTW Ohlmann n200w140.003 10000 10 758 # Improved from 764
+run_TSPTW Ohlmann n200w140.004 10000 10 816
+run_TSPTW Ohlmann n200w140.005 10000 10 822 # Improved from 827

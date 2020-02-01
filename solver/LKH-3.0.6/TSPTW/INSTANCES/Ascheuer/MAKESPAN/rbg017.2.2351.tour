@@ -1,0 +1,24 @@
+NAME : rbg017.2.tw.2351.tour
+COMMENT : Length = 2351
+COMMENT : Found by LKH [Keld Helsgaun] Sun Sep 10 01:17:34 2017
+TYPE : TOUR
+DIMENSION : 16
+TOUR_SECTION
+1
+5
+4
+3
+2
+8
+10
+7
+9
+12
+11
+6
+13
+14
+15
+16
+-1
+EOF

@@ -1,0 +1,28 @@
+NAME : rbg019a.tw.1262.tour
+COMMENT : Length = 1262
+COMMENT : Found by LKH [Keld Helsgaun] Thu Jan 16 16:40:34 2020
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+1
+2
+3
+4
+6
+5
+8
+7
+9
+12
+11
+10
+14
+13
+16
+15
+17
+18
+20
+19
+-1
+EOF

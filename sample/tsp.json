@@ -1,0 +1,611 @@
+{
+    "destination": [
+        {
+            "address_components": [
+                {
+                    "long_name": "61",
+                    "short_name": "61",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Quang Trung",
+                    "short_name": "Quang Trung",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "G\u00f2 V\u1ea5p",
+                    "short_name": "G\u00f2 V\u1ea5p",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "700000",
+                    "short_name": "700000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "61 Quang Trung, Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.8273755,
+                    "lng": 106.6770033
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.8287244802915,
+                        "lng": 106.6783522802915
+                    },
+                    "southwest": {
+                        "lat": 10.8260265197085,
+                        "lng": 106.6756543197085
+                    }
+                }
+            },
+            "place_id": "ChIJe-QS9KcpdTERsXYmiLVgODk",
+            "plus_code": {
+                "compound_code": "RMGG+XR Ph\u01b0\u1eddng 10, G\u00f2 V\u1ea5p, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28RMGG+XR"
+            },
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "74",
+                    "short_name": "74",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nguy\u1ec5n Th\u1ecb Minh Khai",
+                    "short_name": "Nguy\u1ec5n Th\u1ecb Minh Khai",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Qu\u1eadn 3",
+                    "short_name": "Qu\u1eadn 3",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "700000",
+                    "short_name": "700000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "T\u1ea7ng 25-26-27 72, 74 Nguy\u1ec5n Th\u1ecb Minh Khai, Ph\u01b0\u1eddng 6, Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.7827533,
+                    "lng": 106.6974318
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.7841022802915,
+                        "lng": 106.6987807802915
+                    },
+                    "southwest": {
+                        "lat": 10.7814043197085,
+                        "lng": 106.6960828197085
+                    }
+                }
+            },
+            "place_id": "ChIJAQBAZzYvdTERs2mW4UKxUqs",
+            "plus_code": {
+                "compound_code": "QMMW+4X Ph\u01b0\u1eddng 6, District 3, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28QMMW+4X"
+            },
+            "types": [
+                "bar",
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "59",
+                    "short_name": "59",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "M\u1ea1c \u0110\u0129nh Chi",
+                    "short_name": "M\u1ea1c \u0110\u0129nh Chi",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Qu\u1eadn 1",
+                    "short_name": "Qu\u1eadn 1",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "59 M\u1ea1c \u0110\u0129nh Chi, \u0110a Kao, Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.78717,
+                    "lng": 106.6966003
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.7885189802915,
+                        "lng": 106.6979492802915
+                    },
+                    "southwest": {
+                        "lat": 10.7858210197085,
+                        "lng": 106.6952513197085
+                    }
+                }
+            },
+            "place_id": "ChIJcZ0OXrcvdTERoa8mPiX3z5Y",
+            "plus_code": {
+                "compound_code": "QMPW+VJ Da Kao, District 1, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28QMPW+VJ"
+            },
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "131",
+                    "short_name": "131",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Nguy\u1ec5n Ph\u00fac Nguy\u00ean",
+                    "short_name": "Nguy\u1ec5n Ph\u00fac Nguy\u00ean",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Qu\u1eadn 3",
+                    "short_name": "Qu\u1eadn 3",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "131 Nguy\u1ec5n Ph\u00fac Nguy\u00ean, Ph\u01b0\u1eddng 10, Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.7798936,
+                    "lng": 106.6799093
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.7812425802915,
+                        "lng": 106.6812582802915
+                    },
+                    "southwest": {
+                        "lat": 10.7785446197085,
+                        "lng": 106.6785603197085
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJ9xysmigvdTERaJBbGeViz8g",
+            "plus_code": {
+                "compound_code": "QMHH+XX Ph\u01b0\u1eddng 10, District 3, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28QMHH+XX"
+            },
+            "types": [
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "F13",
+                    "short_name": "F13",
+                    "types": [
+                        "subpremise"
+                    ]
+                },
+                {
+                    "long_name": "573/10",
+                    "short_name": "573/10",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "S\u01b0 V\u1ea1n H\u1ea1nh",
+                    "short_name": "S\u01b0 V\u1ea1n H\u1ea1nh",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Qu\u1eadn 10",
+                    "short_name": "Qu\u1eadn 10",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "F13, 573/10 S\u01b0 V\u1ea1n H\u1ea1nh, Ph\u01b0\u1eddng 12, Qu\u1eadn 10, H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.7761873,
+                    "lng": 106.6662329
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.7775362802915,
+                        "lng": 106.6675818802915
+                    },
+                    "southwest": {
+                        "lat": 10.7748383197085,
+                        "lng": 106.6648839197085
+                    }
+                }
+            },
+            "place_id": "ChIJG9HyEdsudTERA4YUXJIjmUg",
+            "plus_code": {
+                "compound_code": "QMG8+FF Ph\u01b0\u1eddng 12, District 10, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28QMG8+FF"
+            },
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "65",
+                    "short_name": "65",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "\u0110\u01b0\u1eddng L\u00ea L\u1ee3i",
+                    "short_name": "\u0110\u01b0\u1eddng L\u00ea L\u1ee3i",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Qu\u1eadn 1",
+                    "short_name": "Qu\u1eadn 1",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Level1, Saigon centre, 65 \u0110\u01b0\u1eddng L\u00ea L\u1ee3i, B\u1ebfn Ngh\u00e9, Qu\u1eadn 1, H\u1ed3 Ch\u00ed Minh, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.7731883,
+                    "lng": 106.7009194
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.7745372802915,
+                        "lng": 106.7022683802915
+                    },
+                    "southwest": {
+                        "lat": 10.7718393197085,
+                        "lng": 106.6995704197085
+                    }
+                }
+            },
+            "partial_match": true,
+            "place_id": "ChIJx8AhakcvdTERvm639gYcmUk",
+            "plus_code": {
+                "compound_code": "QPF2+79 B\u1ebfn Ngh\u00e9, District 1, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28QPF2+79"
+            },
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "restaurant"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "241Bis",
+                    "short_name": "241Bis",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "C\u00e1ch M\u1ea1ng Th\u00e1ng T\u00e1m",
+                    "short_name": "C\u00e1ch M\u1ea1ng Th\u00e1ng T\u00e1m",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Qu\u1eadn 3",
+                    "short_name": "Qu\u1eadn 3",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "700000",
+                    "short_name": "700000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "241Bis C\u00e1ch M\u1ea1ng Th\u00e1ng T\u00e1m, Ph\u01b0\u1eddng 4, Qu\u1eadn 3, H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.7765923,
+                    "lng": 106.6837082
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.7779412802915,
+                        "lng": 106.6850571802915
+                    },
+                    "southwest": {
+                        "lat": 10.7752433197085,
+                        "lng": 106.6823592197085
+                    }
+                }
+            },
+            "place_id": "ChIJ7dERtSUvdTERbxMvTbnSdeg",
+            "plus_code": {
+                "compound_code": "QMGM+JF Ph\u01b0\u1eddng 4, District 3, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28QMGM+JF"
+            },
+            "types": [
+                "cafe",
+                "establishment",
+                "food",
+                "point_of_interest",
+                "store"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "101",
+                    "short_name": "101",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "T\u00f4n D\u1eadt Ti\u00ean",
+                    "short_name": "T\u00f4n D\u1eadt Ti\u00ean",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Qu\u1eadn 7",
+                    "short_name": "Qu\u1eadn 7",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "H\u1ed3 Ch\u00ed Minh",
+                    "short_name": "H\u1ed3 Ch\u00ed Minh",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Vietnam",
+                    "short_name": "VN",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "700000",
+                    "short_name": "700000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "101 T\u00f4n D\u1eadt Ti\u00ean, T\u00e2n Ph\u00fa, Qu\u1eadn 7, H\u1ed3 Ch\u00ed Minh 700000, Vietnam",
+            "geometry": {
+                "location": {
+                    "lat": 10.7290836,
+                    "lng": 106.7188731
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 10.7304325802915,
+                        "lng": 106.7202220802915
+                    },
+                    "southwest": {
+                        "lat": 10.7277346197085,
+                        "lng": 106.7175241197085
+                    }
+                }
+            },
+            "place_id": "ChIJG_kgQ4kvdTERvgrON-WYwLY",
+            "plus_code": {
+                "compound_code": "PPH9+JG T\u00e2n Ph\u00fa, District 7, Ho Chi Minh City, Vietnam",
+                "global_code": "7P28PPH9+JG"
+            },
+            "types": [
+                "establishment",
+                "point_of_interest",
+                "shopping_mall"
+            ]
+        }
+    ],
+    "depot": 0
+}

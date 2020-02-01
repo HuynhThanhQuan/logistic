@@ -1,0 +1,24 @@
+run_TSPTW_Makespan Ohlmann n150w120.001 10000 10 972
+run_TSPTW_Makespan Ohlmann n150w120.002 10000 10 917
+run_TSPTW_Makespan Ohlmann n150w120.004 10000 10 925
+run_TSPTW_Makespan Ohlmann n150w120.005 10000 10 907
+
+run_TSPTW_Makespan Ohlmann n150w140.003 10000 10 844
+run_TSPTW_Makespan Ohlmann n150w140.004 10000 10 898
+run_TSPTW_Makespan Ohlmann n150w140.005 10000 10 926
+
+run_TSPTW_Makespan Ohlmann n150w160.001 10000 10 959
+run_TSPTW_Makespan Ohlmann n150w160.003 10000 10 934
+run_TSPTW_Makespan Ohlmann n150w160.005 10000 10 920 
+
+run_TSPTW_Makespan Ohlmann n200w120.001 10000 10 1089
+run_TSPTW_Makespan Ohlmann n200w120.002 10000 10 1072
+run_TSPTW_Makespan Ohlmann n200w120.003 10000 10 1128
+run_TSPTW_Makespan Ohlmann n200w120.004 10000 10 1072
+run_TSPTW_Makespan Ohlmann n200w120.005 10000 10 1073
+
+run_TSPTW_Makespan Ohlmann n200w140.001 10000 10 1138
+run_TSPTW_Makespan Ohlmann n200w140.002 10000 10 1087
+run_TSPTW_Makespan Ohlmann n200w140.003 10000 10 1083
+run_TSPTW_Makespan Ohlmann n200w140.004 10000 10 1100
+run_TSPTW_Makespan Ohlmann n200w140.005 10000 10 1121

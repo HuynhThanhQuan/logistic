@@ -1,0 +1,125 @@
+run_TSPTW_Makespan Gendreau n20w120.001 10000 10 337
+run_TSPTW_Makespan Gendreau n20w120.002 10000 10 246
+run_TSPTW_Makespan Gendreau n20w120.003 10000 10 347
+run_TSPTW_Makespan Gendreau n20w120.004 10000 10 353
+run_TSPTW_Makespan Gendreau n20w120.005 10000 10 315
+
+run_TSPTW_Makespan Gendreau n20w140.001 10000 10 230
+run_TSPTW_Makespan Gendreau n20w140.002 10000 10 307
+run_TSPTW_Makespan Gendreau n20w140.003 10000 10 301
+run_TSPTW_Makespan Gendreau n20w140.004 10000 10 318
+run_TSPTW_Makespan Gendreau n20w140.005 10000 10 275
+
+run_TSPTW_Makespan Gendreau n20w160.001 10000 10 347
+run_TSPTW_Makespan Gendreau n20w160.002 10000 10 250
+run_TSPTW_Makespan Gendreau n20w160.003 10000 10 331
+run_TSPTW_Makespan Gendreau n20w160.004 10000 10 287
+run_TSPTW_Makespan Gendreau n20w160.005 10000 10 342
+
+run_TSPTW_Makespan Gendreau n20w200.001 10000 10 259
+run_TSPTW_Makespan Gendreau n20w200.002 10000 10 242
+run_TSPTW_Makespan Gendreau n20w200.003 10000 10 305
+run_TSPTW_Makespan Gendreau n20w200.004 10000 10 326
+run_TSPTW_Makespan Gendreau n20w200.005 10000 10 277
+
+run_TSPTW_Makespan Gendreau n40w120.001 10000 10 470
+run_TSPTW_Makespan Gendreau n40w120.002 10000 10 557
+run_TSPTW_Makespan Gendreau n40w120.003 10000 10 464
+run_TSPTW_Makespan Gendreau n40w120.004 10000 10 392
+run_TSPTW_Makespan Gendreau n40w120.005 10000 10 470
+
+run_TSPTW_Makespan Gendreau n40w140.001 10000 10 460
+run_TSPTW_Makespan Gendreau n40w140.002 10000 10 459
+run_TSPTW_Makespan Gendreau n40w140.003 10000 10 476
+run_TSPTW_Makespan Gendreau n40w140.004 10000 10 458
+run_TSPTW_Makespan Gendreau n40w140.005 10000 10 438
+
+run_TSPTW_Makespan Gendreau n40w180.001 10000 10 444
+run_TSPTW_Makespan Gendreau n40w180.002 10000 10 448
+run_TSPTW_Makespan Gendreau n40w180.003 10000 10 398
+run_TSPTW_Makespan Gendreau n40w180.004 10000 10 409
+run_TSPTW_Makespan Gendreau n40w180.005 10000 10 438
+
+run_TSPTW_Makespan Gendreau n60w120.001 10000 10 536
+run_TSPTW_Makespan Gendreau n60w120.002 10000 10 606
+run_TSPTW_Makespan Gendreau n60w120.003 10000 10 541
+run_TSPTW_Makespan Gendreau n60w120.004 10000 10 607
+run_TSPTW_Makespan Gendreau n60w120.005 10000 10 579
+
+run_TSPTW_Makespan Gendreau n60w140.001 10000 10 596
+run_TSPTW_Makespan Gendreau n60w140.002 10000 10 647
+run_TSPTW_Makespan Gendreau n60w140.003 10000 10 625
+run_TSPTW_Makespan Gendreau n60w140.004 10000 10 578
+run_TSPTW_Makespan Gendreau n60w140.005 10000 10 554
+
+run_TSPTW_Makespan Gendreau n60w160.001 10000 10 672
+run_TSPTW_Makespan Gendreau n60w160.002 10000 10 665
+run_TSPTW_Makespan Gendreau n60w160.003 10000 10 569
+run_TSPTW_Makespan Gendreau n60w160.004 10000 10 573
+run_TSPTW_Makespan Gendreau n60w160.005 10000 10 619
+
+run_TSPTW_Makespan Gendreau n60w180.001 10000 10 556
+run_TSPTW_Makespan Gendreau n60w180.002 10000 10 561
+run_TSPTW_Makespan Gendreau n60w180.003 10000 10 606
+run_TSPTW_Makespan Gendreau n60w180.004 10000 10 629
+run_TSPTW_Makespan Gendreau n60w180.005 10000 10 528
+
+run_TSPTW_Makespan Gendreau n60w200.001 10000 10 526
+run_TSPTW_Makespan Gendreau n60w200.002 10000 10 572
+run_TSPTW_Makespan Gendreau n60w200.003 10000 10 560
+run_TSPTW_Makespan Gendreau n60w200.004 10000 10 575
+run_TSPTW_Makespan Gendreau n60w200.005 10000 10 618
+
+run_TSPTW_Makespan Gendreau n80w140.001 10000 10 689
+run_TSPTW_Makespan Gendreau n80w140.002 10000 10 651
+run_TSPTW_Makespan Gendreau n80w140.003 10000 10 673
+run_TSPTW_Makespan Gendreau n80w140.004 10000 10 612
+run_TSPTW_Makespan Gendreau n80w140.005 10000 10 739
+
+run_TSPTW_Makespan Gendreau n80w160.001 10000 10 624
+run_TSPTW_Makespan Gendreau n80w160.002 10000 10 654
+run_TSPTW_Makespan Gendreau n80w160.003 10000 10 690
+run_TSPTW_Makespan Gendreau n80w160.004 10000 10 655
+run_TSPTW_Makespan Gendreau n80w160.005 10000 10 645
+
+run_TSPTW_Makespan Gendreau n80w180.001 10000 10 678
+run_TSPTW_Makespan Gendreau n80w180.002 10000 10 633
+run_TSPTW_Makespan Gendreau n80w180.003 10000 10 680
+run_TSPTW_Makespan Gendreau n80w180.004 10000 10 659
+run_TSPTW_Makespan Gendreau n80w180.005 10000 10 632
+
+run_TSPTW_Makespan Gendreau n80w200.001 10000 10 626
+run_TSPTW_Makespan Gendreau n80w200.002 10000 10 638
+run_TSPTW_Makespan Gendreau n80w200.003 10000 10 679
+run_TSPTW_Makespan Gendreau n80w200.004 10000 10 667
+run_TSPTW_Makespan Gendreau n80w200.005 10000 10 621
+
+run_TSPTW_Makespan Gendreau n100w100.001 10000 10 787
+run_TSPTW_Makespan Gendreau n100w100.002 10000 10 780
+run_TSPTW_Makespan Gendreau n100w100.003 10000 10 819
+run_TSPTW_Makespan Gendreau n100w100.004 10000 10 844
+run_TSPTW_Makespan Gendreau n100w100.005 10000 10 749
+
+run_TSPTW_Makespan Gendreau n100w120.001 10000 10 882
+run_TSPTW_Makespan Gendreau n100w120.002 10000 10 893
+run_TSPTW_Makespan Gendreau n100w120.003 10000 10 909
+run_TSPTW_Makespan Gendreau n100w120.004 10000 10 923
+run_TSPTW_Makespan Gendreau n100w120.005 10000 10 870
+
+run_TSPTW_Makespan Gendreau n100w140.001 10000 10 1008
+run_TSPTW_Makespan Gendreau n100w140.002 10000 10 1021
+run_TSPTW_Makespan Gendreau n100w140.003 10000 10 844
+run_TSPTW_Makespan Gendreau n100w140.004 10000 10 854
+run_TSPTW_Makespan Gendreau n100w140.005 10000 10 805
+
+run_TSPTW_Makespan Gendreau n100w160.001 10000 10 868
+run_TSPTW_Makespan Gendreau n100w160.002 10000 10 791
+run_TSPTW_Makespan Gendreau n100w160.003 10000 10 935
+run_TSPTW_Makespan Gendreau n100w160.004 10000 10 814
+run_TSPTW_Makespan Gendreau n100w160.005 10000 10 917
+
+run_TSPTW_Makespan Gendreau n100w180.001 10000 10 747 # Improved from 797
+run_TSPTW_Makespan Gendreau n100w180.002 10000 10 740 # Improved from 790
+run_TSPTW_Makespan Gendreau n100w180.003 10000 10 778 # Improved from 829
+run_TSPTW_Makespan Gendreau n100w180.004 10000 10 804 # Improved from 854
+run_TSPTW_Makespan Gendreau n100w180.005 10000 10 709 # Improved from 759

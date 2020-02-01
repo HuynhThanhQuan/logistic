@@ -1,0 +1,31 @@
+run_TSPTW_Makespan Potvin rc_201.1 10000 10 5920611
+run_TSPTW_Makespan Potvin rc_201.2 10000 10 8601748 
+run_TSPTW_Makespan Potvin rc_201.4 10000 10 8891761
+
+run_TSPTW_Makespan Potvin rc_202.1 10000 10 8504819
+run_TSPTW_Makespan Potvin rc_202.2 10000 10 3385183 
+run_TSPTW_Makespan Potvin rc_202.3 10000 10 8941028
+
+run_TSPTW_Makespan Potvin rc_203.1 10000 10 4884224
+run_TSPTW_Makespan Potvin rc_203.2 10000 10 8537075
+run_TSPTW_Makespan Potvin rc_203.3 10000 10 9214397
+
+run_TSPTW_Makespan Potvin rc_204.1 10000 10 9178264
+run_TSPTW_Makespan Potvin rc_204.3 10000 10 4550315
+
+run_TSPTW_Makespan Potvin rc_205.1 10000 10 4178058
+run_TSPTW_Makespan Potvin rc_205.2 10000 10 8201853
+run_TSPTW_Makespan Potvin rc_205.3 10000 10 9500539
+run_TSPTW_Makespan Potvin rc_205.4 10000 10 8377083
+
+run_TSPTW_Makespan Potvin rc_206.1 10000 10 1178479
+run_TSPTW_Makespan Potvin rc_206.2 10000 10 8704875
+
+run_TSPTW_Makespan Potvin rc_207.1 10000 10 8046735
+run_TSPTW_Makespan Potvin rc_207.2 10000 10 7138952
+run_TSPTW_Makespan Potvin rc_207.3 10000 10 7457717
+run_TSPTW_Makespan Potvin rc_207.4 10000 10 1331421
+
+run_TSPTW_Makespan Potvin rc_208.1 10000 10 8107009
+run_TSPTW_Makespan Potvin rc_208.2 10000 10 5795087
+run_TSPTW_Makespan Potvin rc_208.3 10000 10 6867954

@@ -1,0 +1,2 @@
+PROBLEM_FILE = a280.tsp
+TOUR_FILE = a280_opt.out

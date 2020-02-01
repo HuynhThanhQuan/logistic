@@ -1,0 +1,131 @@
+run_TSPTW_Makespan Dumas n20w20.001 10000 10 387
+run_TSPTW_Makespan Dumas n20w20.002 10000 10 296
+run_TSPTW_Makespan Dumas n20w20.003 10000 10 403
+run_TSPTW_Makespan Dumas n20w20.004 10000 10 401
+run_TSPTW_Makespan Dumas n20w20.005 10000 10 365
+
+run_TSPTW_Makespan Dumas n20w40.001 10000 10 280
+run_TSPTW_Makespan Dumas n20w40.002 10000 10 357
+run_TSPTW_Makespan Dumas n20w40.003 10000 10 355
+run_TSPTW_Makespan Dumas n20w40.004 10000 10 397
+run_TSPTW_Makespan Dumas n20w40.005 10000 10 325
+
+run_TSPTW_Makespan Dumas n20w60.001 10000 10 400
+run_TSPTW_Makespan Dumas n20w60.002 10000 10 300
+run_TSPTW_Makespan Dumas n20w60.003 10000 10 381
+run_TSPTW_Makespan Dumas n20w60.004 10000 10 337
+run_TSPTW_Makespan Dumas n20w60.005 10000 10 392
+
+run_TSPTW_Makespan Dumas n40w20.001 10000 10 523
+run_TSPTW_Makespan Dumas n40w20.002 10000 10 607
+run_TSPTW_Makespan Dumas n40w20.003 10000 10 514
+run_TSPTW_Makespan Dumas n40w20.004 10000 10 442
+run_TSPTW_Makespan Dumas n40w20.005 10000 10 520
+
+run_TSPTW_Makespan Dumas n40w40.001 10000 10 510
+run_TSPTW_Makespan Dumas n40w40.002 10000 10 519
+run_TSPTW_Makespan Dumas n40w40.003 10000 10 536
+run_TSPTW_Makespan Dumas n40w40.004 10000 10 508
+run_TSPTW_Makespan Dumas n40w40.005 10000 10 488
+
+run_TSPTW_Makespan Dumas n40w60.001 10000 10 535
+run_TSPTW_Makespan Dumas n40w60.002 10000 10 509
+run_TSPTW_Makespan Dumas n40w60.003 10000 10 465
+run_TSPTW_Makespan Dumas n40w60.004 10000 10 475
+run_TSPTW_Makespan Dumas n40w60.005 10000 10 423
+
+run_TSPTW_Makespan Dumas n40w80.001 10000 10 497
+run_TSPTW_Makespan Dumas n40w80.002 10000 10 498
+run_TSPTW_Makespan Dumas n40w80.003 10000 10 488
+run_TSPTW_Makespan Dumas n40w80.004 10000 10 462
+run_TSPTW_Makespan Dumas n40w80.005 10000 10 488
+
+run_TSPTW_Makespan Dumas n40w100.001 10000 10 471
+run_TSPTW_Makespan Dumas n40w100.002 10000 10 452
+run_TSPTW_Makespan Dumas n40w100.003 10000 10 458
+run_TSPTW_Makespan Dumas n40w100.004 10000 10 476
+run_TSPTW_Makespan Dumas n40w100.005 10000 10 458
+
+run_TSPTW_Makespan Dumas n60w20.001 10000 10 586
+run_TSPTW_Makespan Dumas n60w20.002 10000 10 656
+run_TSPTW_Makespan Dumas n60w20.003 10000 10 593
+run_TSPTW_Makespan Dumas n60w20.004 10000 10 670
+run_TSPTW_Makespan Dumas n60w20.005 10000 10 629
+
+run_TSPTW_Makespan Dumas n60w60.001 10000 10 722
+run_TSPTW_Makespan Dumas n60w60.002 10000 10 715
+run_TSPTW_Makespan Dumas n60w60.003 10000 10 619
+run_TSPTW_Makespan Dumas n60w60.004 10000 10 639
+run_TSPTW_Makespan Dumas n60w60.005 10000 10 669
+
+run_TSPTW_Makespan Dumas n60w80.001 10000 10 606
+run_TSPTW_Makespan Dumas n60w80.002 10000 10 611
+run_TSPTW_Makespan Dumas n60w80.003 10000 10 656
+run_TSPTW_Makespan Dumas n60w80.004 10000 10 679
+run_TSPTW_Makespan Dumas n60w80.005 10000 10 589
+
+run_TSPTW_Makespan Dumas n60w100.001 10000 10 576
+run_TSPTW_Makespan Dumas n60w100.002 10000 10 622
+run_TSPTW_Makespan Dumas n60w100.003 10000 10 610
+run_TSPTW_Makespan Dumas n60w100.004 10000 10 625
+run_TSPTW_Makespan Dumas n60w100.005 10000 10 668
+
+run_TSPTW_Makespan Dumas n80w20.001 10000 10 729
+run_TSPTW_Makespan Dumas n80w20.002 10000 10 798
+run_TSPTW_Makespan Dumas n80w20.003 10000 10 727
+run_TSPTW_Makespan Dumas n80w20.004 10000 10 694
+run_TSPTW_Makespan Dumas n80w20.005 10000 10 793
+
+run_TSPTW_Makespan Dumas n80w60.001 10000 10 674
+run_TSPTW_Makespan Dumas n80w60.002 10000 10 733
+run_TSPTW_Makespan Dumas n80w60.003 10000 10 743
+run_TSPTW_Makespan Dumas n80w60.004 10000 10 718
+run_TSPTW_Makespan Dumas n80w60.005 10000 10 695
+
+run_TSPTW_Makespan Dumas n100w20.001 10000 10 827
+run_TSPTW_Makespan Dumas n100w20.002 10000 10 801
+run_TSPTW_Makespan Dumas n100w20.003 10000 10 834
+run_TSPTW_Makespan Dumas n100w20.004 10000 10 828
+run_TSPTW_Makespan Dumas n100w20.005 10000 10 825
+
+run_TSPTW_Makespan Dumas n100w40.001 10000 10 841
+run_TSPTW_Makespan Dumas n100w40.002 10000 10 786
+run_TSPTW_Makespan Dumas n100w40.003 10000 10 835
+run_TSPTW_Makespan Dumas n100w40.004 10000 10 809
+run_TSPTW_Makespan Dumas n100w40.005 10000 10 834
+run_TSPTW_Makespan Dumas n100w60.001 10000 10 824
+
+run_TSPTW_Makespan Dumas n100w60.002 10000 10 782
+run_TSPTW_Makespan Dumas n100w60.003 10000 10 856
+run_TSPTW_Makespan Dumas n100w60.004 10000 10 834
+run_TSPTW_Makespan Dumas n100w60.005 10000 10 790
+
+run_TSPTW_Makespan Dumas n150w20.001 10000 10 1034
+run_TSPTW_Makespan Dumas n150w20.002 10000 10 967
+run_TSPTW_Makespan Dumas n150w20.003 10000 10 959
+run_TSPTW_Makespan Dumas n150w20.004 10000 10 975
+run_TSPTW_Makespan Dumas n150w20.005 10000 10 957
+
+run_TSPTW_Makespan Dumas n150w40.001 10000 10 1058
+run_TSPTW_Makespan Dumas n150w40.002 10000 10 1072
+run_TSPTW_Makespan Dumas n150w40.003 10000 10 894
+run_TSPTW_Makespan Dumas n150w40.004 10000 10 948
+run_TSPTW_Makespan Dumas n150w40.005 10000 10 980
+
+run_TSPTW_Makespan Dumas n150w60.001 10000 10 1024
+run_TSPTW_Makespan Dumas n150w60.002 10000 10 940
+run_TSPTW_Makespan Dumas n150w60.003 10000 10 984
+run_TSPTW_Makespan Dumas n150w60.004 10000 10 998
+run_TSPTW_Makespan Dumas n150w60.005 10000 10 997
+
+run_TSPTW_Makespan Dumas n200w20.001 10000 10 1139
+run_TSPTW_Makespan Dumas n200w20.002 10000 10 1124
+run_TSPTW_Makespan Dumas n200w20.003 10000 10 1178 
+run_TSPTW_Makespan Dumas n200w20.004 10000 10 1125
+run_TSPTW_Makespan Dumas n200w20.005 10000 10 1123
+
+run_TSPTW_Makespan Dumas n200w40.001 10000 10 1188
+run_TSPTW_Makespan Dumas n200w40.002 10000 10 1137
+run_TSPTW_Makespan Dumas n200w40.003 10000 10 1134
+run_TSPTW_Makespan Dumas n200w40.004 10000 10 1150
+run_TSPTW_Makespan Dumas n200w40.005 10000 10 1171

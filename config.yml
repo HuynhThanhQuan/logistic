@@ -1,0 +1,14 @@
+PROJECT_STRUCTURE:
+    OUTPUT: output
+    SOLVER: solver
+    GENERATOR: generator
+    SAMPLE: sample
+    ENV: env
+    FORMAT: format
+MAIN:
+    SOLVER: lkh
+    MAP_API: google
+    ENV_SECRET_KEY: GOOGLE_API_KEY
+    METRIC: time
+    FORMAT: tsplib95
+VIS:

@@ -1,0 +1,48 @@
+NAME : N40ft409.dat.10005.tour
+COMMENT : Length = 10005
+COMMENT : Found by LKH [Keld Helsgaun] Tue May  2 05:19:42 2017
+TYPE : TOUR
+DIMENSION : 40
+TOUR_SECTION
+1
+32
+14
+17
+38
+2
+30
+27
+31
+18
+40
+28
+35
+22
+13
+37
+21
+6
+15
+23
+39
+11
+25
+20
+7
+29
+4
+5
+26
+16
+36
+9
+10
+8
+12
+24
+19
+34
+3
+33
+-1
+EOF
