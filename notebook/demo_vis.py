@@ -1,5 +1,7 @@
 from __future__ import print_function
+from IPython.display import display
 import os
+import matplotlib.pyplot as plt
 import gmaps
 import googlemaps
 import argparse
@@ -417,4 +419,14 @@ tsptw.read(json_filename)
 tsptw.run()
 vis = TSPTWVis(tsptw, rps=0.1)
 vis.print_readable_description()
-vis.draw_figure(save=True)
+fig_widget = vis.draw_figure(save=True)
+
+
+figure = plt.figure(figsize=(5, 5))
+# ax = figure.add_subplot(111)
+
+
+display(fig_widget)
+plt.show()
+
+print('Finish')
