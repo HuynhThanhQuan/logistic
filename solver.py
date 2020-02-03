@@ -91,9 +91,6 @@ class LKH:
         if os.path.exists('./format/{}.sol'.format(id_filename)):
             sol = tsplib95.load_solution('./format/{}.sol'.format(id_filename))
             return sol.tours[0]
-        if os.path.exists('./format/{}.sol'.format(id_filename)):
-            sol = tsplib95.load_solution('./format/{}.sol'.format(id_filename))
-            return sol.tours[0]
         return None
 
     @staticmethod

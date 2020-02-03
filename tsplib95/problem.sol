@@ -1,21 +1,18 @@
-NAME : problem.tsptw.8397.tour
-COMMENT : Length = 8397
-COMMENT : Found by LKH [Keld Helsgaun] Mon Feb  3 18:09:57 2020
+NAME : problem.tsptw.7853.tour
+COMMENT : Length = 7853
+COMMENT : Found by LKH [Keld Helsgaun] Mon Feb  3 19:12:53 2020
 TYPE : TOUR
-DIMENSION : 13
+DIMENSION : 10
 TOUR_SECTION
 1
-3
-5
-8
-12
-2
-11
 6
+5
+4
+8
+2
 10
 9
+3
 7
-4
-13
 -1
 EOF
