@@ -1,2 +1,0 @@
-PROBLEM_FILE = ../tsplib95/problem.tsptw
-TOUR_FILE = ../tsplib95/problem.sol

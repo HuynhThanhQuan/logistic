@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/home/quanht6/.dotnet/store/|arch|/|tfm|",
-      "/home/quanht6/.nuget/packages"
-    ]
-  }
-}
