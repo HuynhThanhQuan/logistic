@@ -1,0 +1,2 @@
+PROBLEM_FILE = ../format/data_7_1_tsptw.tsptw
+TOUR_FILE = ../format/data_7_1_tsptw.sol
