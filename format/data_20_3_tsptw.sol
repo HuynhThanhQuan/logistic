@@ -1,6 +1,6 @@
 NAME : data_20_3_tsptw.tsptw.10553.tour
 COMMENT : Length = 10553
-COMMENT : Found by LKH [Keld Helsgaun] Tue Feb  4 15:30:04 2020
+COMMENT : Found by LKH [Keld Helsgaun] Wed Feb  5 14:06:17 2020
 TYPE : TOUR
 DIMENSION : 21
 TOUR_SECTION

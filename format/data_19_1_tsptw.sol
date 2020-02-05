@@ -1,0 +1,28 @@
+NAME : data_19_1_tsptw.tsptw.10915.tour
+COMMENT : Length = 10915
+COMMENT : Found by LKH [Keld Helsgaun] Wed Feb  5 14:27:07 2020
+TYPE : TOUR
+DIMENSION : 20
+TOUR_SECTION
+1
+3
+7
+2
+18
+4
+10
+20
+12
+17
+15
+9
+13
+11
+14
+6
+16
+8
+19
+5
+-1
+EOF
